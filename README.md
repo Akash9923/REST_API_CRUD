@@ -1,9 +1,17 @@
 ## Quick Start
 
+Install dependencies using below command
+
 ```bash
 npm install
 
+```
+
+To Run API
+
+```bash
 node server.js
+
 ```
 
 ## Example JSON For POST
